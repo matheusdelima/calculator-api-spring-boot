@@ -4,7 +4,7 @@
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
   <img src="http://img.shields.io/static/v1?label=Java&message=19&color=red&style=for-the-badge&logo=java"/>
   <img src="http://img.shields.io/static/v1?label=SpringBoot&message=3.0.4&color=red&style=for-the-badge&logo=java"/>
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GRAY&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%DEVELOPMENT&color=GRAY&style=for-the-badge"/>
 </p>
 
 > Project Stage: :warning: (Development)
