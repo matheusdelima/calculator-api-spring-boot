@@ -5,6 +5,7 @@
   <img src="http://img.shields.io/static/v1?label=Java&message=19&color=red&style=for-the-badge&logo=java"/>
   <img src="http://img.shields.io/static/v1?label=SpringBoot&message=3.0.4&color=red&style=for-the-badge&logo=java"/>
   <img src="http://img.shields.io/static/v1?label=STATUS&message=DEVELOPMENT&color=GRAY&style=for-the-badge"/>
+  [![Java CI with Maven](https://github.com/matheusdelima/calculator-api-spring-boot/actions/workflows/maven.yml/badge.svg)](https://github.com/matheusdelima/calculator-api-spring-boot/actions/workflows/maven.yml)
 </p>
 
 > Project Stage: :warning: (Development)
